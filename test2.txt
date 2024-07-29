@@ -1,0 +1,6 @@
+7
+Task A -> Task B
+Task C -> Task B
+Task B -> Task D
+Task E -> Task F
+-> Task G
